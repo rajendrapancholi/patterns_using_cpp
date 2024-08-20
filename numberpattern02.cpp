@@ -1,4 +1,4 @@
-// Pattern 1.2: Type Number : decremented number square pattern.
+// Pattern Type Number 1.2 : decremented number square pattern.
 // 4 3 2 1
 // 4 3 2 1
 // 4 3 2 1
