@@ -1,4 +1,4 @@
-// Pattern Type Alphabets 3.2 : Square alphabets(increase column whith respect to previous row and then increment each column) pattern.
+// Pattern Type Alphabets 3.3 : Square alphabets(increase column whith respect to previous row and then increment each column) pattern.
 // A B C
 // B C D
 // C D E
